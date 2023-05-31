@@ -4,7 +4,7 @@ const Watch = () => {
   return (
     <div style={{ height: "97vh" }}>
     <div className="container">
-    <div className="heading3">
+    <div className="heading3"> 
     <i className="bi bi-apple applewatch"></i><p>WATCH</p>
     </div>
     <p className='small-heading'>SERIES 8</p>
