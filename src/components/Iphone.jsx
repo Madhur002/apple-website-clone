@@ -15,7 +15,7 @@ const Iphone = () => {
         <a href="#" className="link1">Learn more <i className="bi bi-chevron-right arrow"></i></a>
         <a href="#" className="link2">Buy <i className="bi bi-chevron-right arrow"></i></a>
       </div>
-        <img src="../../public/images/iphone.jpg" />
+        <img src="public/images/iphone.jpg" />
       </div>
       <Watch/>
     </div>
