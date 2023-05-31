@@ -21,7 +21,7 @@ const Hero = () => {
         <a href="#" className="link1 linkhover">Learn more <i className="bi bi-chevron-right arrow"></i></a>
         <a href="#" className="link2 linkhover">Buy <i className="bi bi-chevron-right arrow"></i></a>
       </div>
-        <img src="../public/images/hero.jpg" />
+        <img src="./public/images/hero.jpg" />
       </div>
       <Iphone/>
     </div>
