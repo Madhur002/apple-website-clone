@@ -15,7 +15,7 @@ const Watch = () => {
       <a href="#" className="link1 linkhover">Learn more <i className="bi bi-chevron-right arrow"></i></a>
       <a href="#" className="link2 linkhover">Buy <i className="bi bi-chevron-right arrow"></i></a>
     </div>
-      <img src="./public/images/watch.jpg" />
+      <img src="public/images/watch.jpg" />
     </div>
   </div>
   )
